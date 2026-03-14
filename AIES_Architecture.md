@@ -971,7 +971,7 @@ flowchart LR
 
 **ETH/BNB (EVM兼容链)**:
 ```
-0x6B436A5A4b59AfBdDE3cb3936DEfaE12d070C177
+moyanking.eth
 ```
 
 ### 微信/支付宝捐款

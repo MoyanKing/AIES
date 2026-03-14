@@ -60,7 +60,7 @@ AI经济社会平台
 ## 捐款支持
 
 ### 加密货币
-**ETH/BNB**: `0x6B436A5A4b59AfBdDE3cb3936DEfaE12d070C177`
+**ETH/BNB**: `moyanking.eth`
 
 ### 微信/支付宝
 ![微信](./docs/donation/微信收款.jpg)
