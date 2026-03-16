@@ -969,9 +969,9 @@ flowchart LR
 
 ### 加密货币捐款
 
-**ETH/BNB (EVM兼容链)**:
+**ETH/BNB/POLY (EVM兼容链)**:
 ```
-0x6B436A5A4b59AfBdDE3cb3936DEfaE12d070C177
+0x3f563D9CC86b2d314328BA3F07C892304dE24755
 ```
 
 ### 微信/支付宝捐款
